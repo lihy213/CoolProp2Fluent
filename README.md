@@ -18,3 +18,5 @@ Some steps are referred to https://github.com/CoolProp/CoolProp/blob/master/wrap
 11. ![image-20251223210137291](./README.assets/image-20251223210137291.png)
 12. Test functionality through *User-Defined* tab -> *Excute on Demand* -> select *test::libudf* -> Click Execute
 13. ![image-20251223210205765](./README.assets/image-20251223210205765.png)
+14. <img width="430" height="29" alt="图片" src="https://github.com/user-attachments/assets/6f481518-ae76-4ac6-a770-42aee10db8bc" />
+
