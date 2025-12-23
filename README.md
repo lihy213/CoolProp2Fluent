@@ -10,7 +10,7 @@ Some steps are referred to https://github.com/CoolProp/CoolProp/blob/master/wrap
 3. Launch Fluent.
 4. Select *User-Defined* tab -> *Functions* -> *Compiled*
 5. Add your UDF source file, here refer to `Example_windows_UDF.cpp`
-6. Add header file, here refer to `CoolProp.dll` in step 1.
+6. Add header file, here refer to `CoolPropLib.h` in step 1.
 7. ![image-20251223205959130](./README.assets/image-20251223205959130.png)
 8. Then click `Build`, ignore the warnings unless there're errors.
 9. ![image-20251223210103093](./README.assets/image-20251223210103093.png)
@@ -20,3 +20,6 @@ Some steps are referred to https://github.com/CoolProp/CoolProp/blob/master/wrap
 13. ![image-20251223210205765](./README.assets/image-20251223210205765.png)
 14. <img width="430" height="29" alt="图片" src="https://github.com/user-attachments/assets/6f481518-ae76-4ac6-a770-42aee10db8bc" />
 
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lihy213/CoolProp2Fluent&type=date&legend=top-left)](https://www.star-history.com/#lihy213/CoolProp2Fluent&type=date&legend=top-left)
