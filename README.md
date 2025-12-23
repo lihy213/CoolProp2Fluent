@@ -5,6 +5,8 @@ Some steps are referred to https://github.com/CoolProp/CoolProp/blob/master/wrap
 
 # Windows
 
+*Test ENV: Windows 11, ANSYS FLUENT 2025 R1*
+
 1. Download corresponding dependencies `CoolProp.dll、CoolProp.lib、CoolPropLib.h` as https://github.com/lihy213/Coolprop2VS described.
 2. Place them to your Fluent working directory.
 3. Launch Fluent.
